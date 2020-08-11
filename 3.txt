@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+thứ 3(sửa trên laptop)
+=======
+thứ 3(đã sửa)
+>>>>>>> cd4f1e62a281e0c0a7bcee64d348ec2dd4d61f37
